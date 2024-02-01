@@ -8,7 +8,8 @@
 The Home Sales project focuses on leveraging the power of SparkSQL to answer specific questions related to home sales data. The analysis includes creating temporary views, partitioning data, caching, and exploring Parquet data storage.
 
 
-![Alt text](images/2_big_data.jpg)
+![Alt text](images/shutterstock_123746518.jpg)
+
 
 
 
